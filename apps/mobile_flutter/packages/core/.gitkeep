@@ -1,0 +1,15 @@
+packages/auth/.gitkeep
+
+packages/goals/.gitkeep
+
+packages/reviews/.gitkeep
+
+packages/analytics/.gitkeep
+
+packages/backup_restore/.gitkeep
+
+packages/finance/.gitkeep
+
+packages/health/.gitkeep
+
+packages/intelligence/.gitkeep
