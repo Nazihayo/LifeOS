@@ -1,1 +1,2 @@
-
+Flutter app shell lives here (pubspec.yaml, lib/). Business logic belongs in
+the sibling packages/ directories, not here — this app composes them.

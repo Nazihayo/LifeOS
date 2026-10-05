@@ -1,0 +1,3 @@
+Shared domain primitives (DomainEvent, Id/UUIDv7, Repository<T> interface).
+Depends on nothing else in packages/ — every other package depends on this,
+never the reverse.
